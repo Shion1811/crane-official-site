@@ -26,6 +26,9 @@ body {
   width: 100%;
   max-width: 400px;
   padding: 4px;
+  height: 3em;
+  font-size: 30px;
+  align-items: center;
 }
 
 .link-button span {
@@ -35,4 +38,11 @@ body {
 .instagram {
   width: 270px;
   height: 270px;
+}
+
+#icon {
+  font-size: 25px;
+}
+
+#YouTube {
 }
